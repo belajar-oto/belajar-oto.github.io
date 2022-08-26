@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fa0ae28.css",
+    "main.js": "/static/js/main.fc30bc80.js",
+    "static/js/787.df4f86de.chunk.js": "/static/js/787.df4f86de.chunk.js",
+    "static/media/runner.jpg": "/static/media/runner.92b4a6cc5176e7e7e18d.jpg",
+    "static/media/deadpool.jpg": "/static/media/deadpool.91919776f8dc9c1ad2c5.jpg",
+    "static/media/thirteen.jpg": "/static/media/thirteen.5aaf848ebaa53e57bc97.jpg",
+    "static/media/wonder.jpg": "/static/media/wonder.d6a26786094da3ab4b28.jpg",
+    "static/media/venom.jpg": "/static/media/venom.b401ad97b5e4d774e32d.jpg",
+    "static/media/roundup.jpg": "/static/media/roundup.77c513206428907e44ea.jpg",
+    "static/media/antmant.jpg": "/static/media/antmant.edc4a0bb8a4bd43774c1.jpg",
+    "static/media/bigmouth.jpg": "/static/media/bigmouth.237dfa702181361e9682.jpg",
+    "static/media/avanger.jpg": "/static/media/avanger.4cf7d48d2c71952c3d0b.jpg",
+    "static/media/bg.jpg": "/static/media/bg.5f7f4b3b77baea8a7d9e.jpg",
+    "static/media/spiderman.jpg": "/static/media/spiderman.5c1cb9714315e62fb9e6.jpg",
+    "static/media/interceptor.jpg": "/static/media/interceptor.f9552864f751b2d060cb.jpg",
+    "static/media/topgun.jpg": "/static/media/topgun.3ebbbfdaac2dad48e1f4.jpg",
+    "static/media/drstrange.jpg": "/static/media/drstrange.2484d6b2995b7a0e742f.jpg",
+    "index.html": "/index.html",
+    "main.8fa0ae28.css.map": "/static/css/main.8fa0ae28.css.map",
+    "main.fc30bc80.js.map": "/static/js/main.fc30bc80.js.map",
+    "787.df4f86de.chunk.js.map": "/static/js/787.df4f86de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa0ae28.css",
+    "static/js/main.fc30bc80.js"
+  ]
+}
